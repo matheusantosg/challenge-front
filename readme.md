@@ -36,3 +36,9 @@ Então mãos a obra e bom challenge ;)
 - Boa descrição das funcionalidades do desafio
 - Fidelidade ao design proposto
 - Adaptação mobile
+
+
+## Descrição do que foi feito
+
+- Eu comecei a criar o projeto utilizando Gulp e SASS, bootstrap 4.
+- Com isso, é possível criar um servidor local e consumir os dados de products.json.
