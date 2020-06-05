@@ -42,3 +42,6 @@ Então mãos a obra e bom challenge ;)
 
 - Eu comecei a criar o projeto utilizando Gulp e SASS, bootstrap 4.
 - Com isso, é possível criar um servidor local e consumir os dados de products.json.
+- Fiz o for para os itens do json, e assim ficou dinâmico no carrinho.
+- Infelizmente fiquei sem tempo e acabei não tratando o valor total dos itens, tive uma certa dificuldade para
+rodar no json, falta de prática acabou tomando muito tempo.
