@@ -40,6 +40,8 @@ Então mãos a obra e bom challenge ;)
 
 ## Descrição do que foi feito
 
+- Para executar o projeto utilizei Node v10, Gulp v2.2.0 NPM v5.6.0.
+- Abra o CMD e vá até o diretório do projeto, e digite npm i, então será realizado o download de todo pacote node_modules.
 - Eu comecei a criar o projeto utilizando Gulp e SASS, bootstrap 4.
 - Com isso, é possível criar um servidor local e consumir os dados de products.json.
 - Fiz o for para os itens do json, e assim ficou dinâmico no carrinho.
